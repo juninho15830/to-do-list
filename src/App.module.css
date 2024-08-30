@@ -1,0 +1,16 @@
+.main {
+    max-width: 90rem;
+    margin: auto;
+    background-color: var(--gray-600);
+    height: 100vh;
+}
+
+
+.inputContainer {
+    display: flex;
+    gap: 0.5rem;
+    margin: -1.687rem auto;
+    max-width: 48rem;
+    padding: 0 1rem;
+}
+

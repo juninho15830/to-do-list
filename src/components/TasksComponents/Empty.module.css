@@ -1,0 +1,22 @@
+.container {
+    padding: 4rem 1rem;
+  
+    border-top: 1px solid var(--gray-500);
+    border-radius: 8px;
+  
+    display: flex;
+    max-width: 46rem;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    gap: 1rem;
+  
+    color: var(--gray-400);
+  }
+  
+  .container p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 140%;
+  }
