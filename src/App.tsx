@@ -3,10 +3,9 @@ import styles from "./App.module.css"
 import { Header } from "./components/Header";
 import { HeaderTasks } from "./components/TasksComponents/HeaderTasks";
 import { Task } from "./components/TasksComponents/Task";
-
-import "./global.css"
 import { Empty } from "./components/TasksComponents/Empty";
 import { Form } from "./components/Form";
+import "./global.css"
 
 //Cria a interface para passar as props direto no estado
 interface Task {
